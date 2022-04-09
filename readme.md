@@ -12,9 +12,18 @@ You can also tag points which may be useful to people considering the book - per
 * express
 * ISBNdb
 * SASS
+* _ oauth
 
 ###ISBNdb
 https://www.isbndb.com/apidocs/v2
+
+### authentication
+* Google
+* Microsoft
+* Facebook
+* Twitter
+* Instagram
+* Tiktok
 
 ## branding
 * color.adobe.com to generate the colours
